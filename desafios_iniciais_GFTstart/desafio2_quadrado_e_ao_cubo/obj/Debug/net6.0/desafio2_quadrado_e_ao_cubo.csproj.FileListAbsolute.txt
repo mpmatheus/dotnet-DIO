@@ -1,0 +1,15 @@
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\bin\Debug\net6.0\desafio2_quadrado_e_ao_cubo.exe
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\bin\Debug\net6.0\desafio2_quadrado_e_ao_cubo.deps.json
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\bin\Debug\net6.0\desafio2_quadrado_e_ao_cubo.runtimeconfig.json
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\bin\Debug\net6.0\desafio2_quadrado_e_ao_cubo.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\bin\Debug\net6.0\ref\desafio2_quadrado_e_ao_cubo.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\bin\Debug\net6.0\desafio2_quadrado_e_ao_cubo.pdb
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\obj\Debug\net6.0\desafio2_quadrado_e_ao_cubo.csproj.AssemblyReference.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\obj\Debug\net6.0\desafio2_quadrado_e_ao_cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\obj\Debug\net6.0\desafio2_quadrado_e_ao_cubo.AssemblyInfoInputs.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\obj\Debug\net6.0\desafio2_quadrado_e_ao_cubo.AssemblyInfo.cs
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\obj\Debug\net6.0\desafio2_quadrado_e_ao_cubo.csproj.CoreCompileInputs.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\obj\Debug\net6.0\desafio2_quadrado_e_ao_cubo.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\obj\Debug\net6.0\ref\desafio2_quadrado_e_ao_cubo.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\obj\Debug\net6.0\desafio2_quadrado_e_ao_cubo.pdb
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio2_quadrado_e_ao_cubo\obj\Debug\net6.0\desafio2_quadrado_e_ao_cubo.genruntimeconfig.cache

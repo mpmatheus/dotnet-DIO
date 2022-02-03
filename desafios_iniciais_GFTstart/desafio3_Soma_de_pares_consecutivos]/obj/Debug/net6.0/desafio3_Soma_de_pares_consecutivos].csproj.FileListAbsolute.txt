@@ -1,0 +1,15 @@
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\obj\Debug\net6.0\desafio3_Soma_de_pares_consecutivos].csproj.AssemblyReference.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\obj\Debug\net6.0\desafio3_Soma_de_pares_consecutivos].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\obj\Debug\net6.0\desafio3_Soma_de_pares_consecutivos].AssemblyInfoInputs.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\obj\Debug\net6.0\desafio3_Soma_de_pares_consecutivos].AssemblyInfo.cs
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\obj\Debug\net6.0\desafio3_Soma_de_pares_consecutivos].csproj.CoreCompileInputs.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\bin\Debug\net6.0\desafio3_Soma_de_pares_consecutivos].exe
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\bin\Debug\net6.0\desafio3_Soma_de_pares_consecutivos].deps.json
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\bin\Debug\net6.0\desafio3_Soma_de_pares_consecutivos].runtimeconfig.json
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\bin\Debug\net6.0\desafio3_Soma_de_pares_consecutivos].dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\bin\Debug\net6.0\ref\desafio3_Soma_de_pares_consecutivos].dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\bin\Debug\net6.0\desafio3_Soma_de_pares_consecutivos].pdb
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\obj\Debug\net6.0\desafio3_Soma_de_pares_consecutivos].dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\obj\Debug\net6.0\ref\desafio3_Soma_de_pares_consecutivos].dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\obj\Debug\net6.0\desafio3_Soma_de_pares_consecutivos].pdb
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio3_Soma_de_pares_consecutivos]\obj\Debug\net6.0\desafio3_Soma_de_pares_consecutivos].genruntimeconfig.cache

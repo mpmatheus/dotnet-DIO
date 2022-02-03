@@ -1,0 +1,15 @@
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\bin\Debug\net6.0\desafio1_meses.exe
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\bin\Debug\net6.0\desafio1_meses.deps.json
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\bin\Debug\net6.0\desafio1_meses.runtimeconfig.json
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\bin\Debug\net6.0\desafio1_meses.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\bin\Debug\net6.0\ref\desafio1_meses.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\bin\Debug\net6.0\desafio1_meses.pdb
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\obj\Debug\net6.0\desafio1_meses.csproj.AssemblyReference.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\obj\Debug\net6.0\desafio1_meses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\obj\Debug\net6.0\desafio1_meses.AssemblyInfoInputs.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\obj\Debug\net6.0\desafio1_meses.AssemblyInfo.cs
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\obj\Debug\net6.0\desafio1_meses.csproj.CoreCompileInputs.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\obj\Debug\net6.0\desafio1_meses.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\obj\Debug\net6.0\ref\desafio1_meses.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\obj\Debug\net6.0\desafio1_meses.pdb
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\desafios_iniciais_GFTstart\desafio1_meses\obj\Debug\net6.0\desafio1_meses.genruntimeconfig.cache
