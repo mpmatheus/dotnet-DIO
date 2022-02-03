@@ -1,0 +1,15 @@
+C:\Users\mp_ma\Documents\refstruct\obj\Debug\net6.0\refstruct.csproj.AssemblyReference.cache
+C:\Users\mp_ma\Documents\refstruct\obj\Debug\net6.0\refstruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mp_ma\Documents\refstruct\obj\Debug\net6.0\refstruct.AssemblyInfoInputs.cache
+C:\Users\mp_ma\Documents\refstruct\obj\Debug\net6.0\refstruct.AssemblyInfo.cs
+C:\Users\mp_ma\Documents\refstruct\obj\Debug\net6.0\refstruct.csproj.CoreCompileInputs.cache
+C:\Users\mp_ma\Documents\refstruct\bin\Debug\net6.0\refstruct.exe
+C:\Users\mp_ma\Documents\refstruct\bin\Debug\net6.0\refstruct.deps.json
+C:\Users\mp_ma\Documents\refstruct\bin\Debug\net6.0\refstruct.runtimeconfig.json
+C:\Users\mp_ma\Documents\refstruct\bin\Debug\net6.0\refstruct.dll
+C:\Users\mp_ma\Documents\refstruct\bin\Debug\net6.0\ref\refstruct.dll
+C:\Users\mp_ma\Documents\refstruct\bin\Debug\net6.0\refstruct.pdb
+C:\Users\mp_ma\Documents\refstruct\obj\Debug\net6.0\refstruct.dll
+C:\Users\mp_ma\Documents\refstruct\obj\Debug\net6.0\ref\refstruct.dll
+C:\Users\mp_ma\Documents\refstruct\obj\Debug\net6.0\refstruct.pdb
+C:\Users\mp_ma\Documents\refstruct\obj\Debug\net6.0\refstruct.genruntimeconfig.cache

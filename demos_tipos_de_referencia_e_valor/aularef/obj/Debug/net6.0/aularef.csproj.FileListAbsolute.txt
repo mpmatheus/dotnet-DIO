@@ -1,0 +1,15 @@
+C:\Users\mp_ma\Documents\aularef\obj\Debug\net6.0\aularef.csproj.AssemblyReference.cache
+C:\Users\mp_ma\Documents\aularef\obj\Debug\net6.0\aularef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mp_ma\Documents\aularef\obj\Debug\net6.0\aularef.AssemblyInfoInputs.cache
+C:\Users\mp_ma\Documents\aularef\obj\Debug\net6.0\aularef.AssemblyInfo.cs
+C:\Users\mp_ma\Documents\aularef\obj\Debug\net6.0\aularef.csproj.CoreCompileInputs.cache
+C:\Users\mp_ma\Documents\aularef\bin\Debug\net6.0\aularef.exe
+C:\Users\mp_ma\Documents\aularef\bin\Debug\net6.0\aularef.deps.json
+C:\Users\mp_ma\Documents\aularef\bin\Debug\net6.0\aularef.runtimeconfig.json
+C:\Users\mp_ma\Documents\aularef\bin\Debug\net6.0\aularef.dll
+C:\Users\mp_ma\Documents\aularef\bin\Debug\net6.0\ref\aularef.dll
+C:\Users\mp_ma\Documents\aularef\bin\Debug\net6.0\aularef.pdb
+C:\Users\mp_ma\Documents\aularef\obj\Debug\net6.0\aularef.dll
+C:\Users\mp_ma\Documents\aularef\obj\Debug\net6.0\ref\aularef.dll
+C:\Users\mp_ma\Documents\aularef\obj\Debug\net6.0\aularef.pdb
+C:\Users\mp_ma\Documents\aularef\obj\Debug\net6.0\aularef.genruntimeconfig.cache

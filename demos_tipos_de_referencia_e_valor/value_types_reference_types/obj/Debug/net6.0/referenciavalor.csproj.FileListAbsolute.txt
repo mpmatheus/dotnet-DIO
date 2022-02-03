@@ -1,0 +1,30 @@
+C:\Users\mp_ma\Documents\referenciavalor\bin\Debug\net6.0\referenciavalor.exe
+C:\Users\mp_ma\Documents\referenciavalor\bin\Debug\net6.0\referenciavalor.deps.json
+C:\Users\mp_ma\Documents\referenciavalor\bin\Debug\net6.0\referenciavalor.runtimeconfig.json
+C:\Users\mp_ma\Documents\referenciavalor\bin\Debug\net6.0\referenciavalor.dll
+C:\Users\mp_ma\Documents\referenciavalor\bin\Debug\net6.0\ref\referenciavalor.dll
+C:\Users\mp_ma\Documents\referenciavalor\bin\Debug\net6.0\referenciavalor.pdb
+C:\Users\mp_ma\Documents\referenciavalor\obj\Debug\net6.0\referenciavalor.csproj.AssemblyReference.cache
+C:\Users\mp_ma\Documents\referenciavalor\obj\Debug\net6.0\referenciavalor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mp_ma\Documents\referenciavalor\obj\Debug\net6.0\referenciavalor.AssemblyInfoInputs.cache
+C:\Users\mp_ma\Documents\referenciavalor\obj\Debug\net6.0\referenciavalor.AssemblyInfo.cs
+C:\Users\mp_ma\Documents\referenciavalor\obj\Debug\net6.0\referenciavalor.csproj.CoreCompileInputs.cache
+C:\Users\mp_ma\Documents\referenciavalor\obj\Debug\net6.0\referenciavalor.dll
+C:\Users\mp_ma\Documents\referenciavalor\obj\Debug\net6.0\ref\referenciavalor.dll
+C:\Users\mp_ma\Documents\referenciavalor\obj\Debug\net6.0\referenciavalor.pdb
+C:\Users\mp_ma\Documents\referenciavalor\obj\Debug\net6.0\referenciavalor.genruntimeconfig.cache
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\bin\Debug\net6.0\referenciavalor.exe
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\bin\Debug\net6.0\referenciavalor.deps.json
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\bin\Debug\net6.0\referenciavalor.runtimeconfig.json
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\bin\Debug\net6.0\referenciavalor.dll
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\bin\Debug\net6.0\ref\referenciavalor.dll
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\bin\Debug\net6.0\referenciavalor.pdb
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\obj\Debug\net6.0\referenciavalor.csproj.AssemblyReference.cache
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\obj\Debug\net6.0\referenciavalor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\obj\Debug\net6.0\referenciavalor.AssemblyInfoInputs.cache
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\obj\Debug\net6.0\referenciavalor.AssemblyInfo.cs
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\obj\Debug\net6.0\referenciavalor.csproj.CoreCompileInputs.cache
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\obj\Debug\net6.0\referenciavalor.dll
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\obj\Debug\net6.0\ref\referenciavalor.dll
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\obj\Debug\net6.0\referenciavalor.pdb
+C:\Users\mp_ma\Documents\DIO\dotnet dio\referenciavalor2\obj\Debug\net6.0\referenciavalor.genruntimeconfig.cache
