@@ -9,4 +9,6 @@
 
 - Aula Directory
 
--aula move copy
+- Aula move copy
+
+- Aula Read Directory
