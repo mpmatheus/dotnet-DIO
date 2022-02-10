@@ -1,0 +1,15 @@
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\bin\Debug\net6.0\ReadDirectory.exe
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\bin\Debug\net6.0\ReadDirectory.deps.json
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\bin\Debug\net6.0\ReadDirectory.runtimeconfig.json
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\bin\Debug\net6.0\ReadDirectory.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\bin\Debug\net6.0\ref\ReadDirectory.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\bin\Debug\net6.0\ReadDirectory.pdb
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\obj\Debug\net6.0\ReadDirectory.csproj.AssemblyReference.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\obj\Debug\net6.0\ReadDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\obj\Debug\net6.0\ReadDirectory.AssemblyInfoInputs.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\obj\Debug\net6.0\ReadDirectory.AssemblyInfo.cs
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\obj\Debug\net6.0\ReadDirectory.csproj.CoreCompileInputs.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\obj\Debug\net6.0\ReadDirectory.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\obj\Debug\net6.0\ref\ReadDirectory.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\obj\Debug\net6.0\ReadDirectory.pdb
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\ReadDirectory\obj\Debug\net6.0\ReadDirectory.genruntimeconfig.cache
