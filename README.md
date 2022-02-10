@@ -6,3 +6,7 @@
 - Desafios iniciais GFT start
 
 - Aula de file e file info
+
+- Aula Directory
+
+-aula move copy
