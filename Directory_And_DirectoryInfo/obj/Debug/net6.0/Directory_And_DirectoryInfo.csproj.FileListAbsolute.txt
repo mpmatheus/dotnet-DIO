@@ -1,0 +1,15 @@
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.exe
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.deps.json
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.runtimeconfig.json
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\bin\Debug\net6.0\ref\Directory_And_DirectoryInfo.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.pdb
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.AssemblyInfo.cs
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\obj\Debug\net6.0\ref\Directory_And_DirectoryInfo.dll
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.pdb
+C:\Users\mp_ma\Documents\DIO\bootcamp-GFT-dotnet\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.genruntimeconfig.cache
