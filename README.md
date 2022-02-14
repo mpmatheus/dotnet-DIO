@@ -5,10 +5,12 @@
 
 - Desafios iniciais GFT start
 
-- Aula de file e file info
+- Aula File e File Info
 
 - Aula Directory
 
-- Aula move copy
+- Aula Move Copy
 
 - Aula Read Directory
+
+- Aula File System Watcher
